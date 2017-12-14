@@ -1,6 +1,8 @@
 # Web Information Retrieval - WIR
 
-WIR is Infromation Retrieval on a the Web Corpus. The Web Corpus is made of documents with unique characteristics:
+>Information retrieval (IR) is the activity of obtaining information resources relevant to an information need from a collection of information resources.
+
+WIR is Information Retrieval when the collection of information resources is the Web. The Web is made of resources with unique characteristics:
 
 1. Linked
 2. Semi-structured
