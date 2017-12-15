@@ -11,3 +11,7 @@ WIR is Information Retrieval when the collection of information resources is the
 5. multi-content (i.e. images, text etc) with different format and type of documents
 6. the quality of documents is not homogeneous
 7. the information changes rapidly
+
+![](img/web1vsweb21.png)
+![](img/versus.jpg)
+![](img/versus1.jpg)
